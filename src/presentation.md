@@ -203,3 +203,62 @@ Texture is the surface quality of an artwork — how it feels or appears to feel
 These are the building blocks. The principles tell us how to arrange them.
 
 ---
+
+<!-- slide class="section-intro" -->
+
+<span class="section-label">Principles of Art</span>
+
+<span class="section-number">02</span>
+
+## Principles of Art
+
+The principles of art are how artists organize the elements within a work.
+They are the grammar that gives visual language structure and meaning.
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Rhythm
+
+Rhythm is created through the repetition of visual elements — lines, shapes, colors, or textures. Like musical rhythm, visual rhythm creates a sense of organized movement and tempo. It can be regular (predictable), alternating (patterned), flowing (continuous), or progressive (gradually changing).
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/rhythm.jpg" alt="Artwork demonstrating rhythm">
+    <div class="attribution">Piet Mondrian, Composition with Red Blue and Yellow, 1930 — Kunstmuseum Basel / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Rhythm Works Here</h3>
+    <p>The repeated elements in this composition create a visual beat that guides the eye across the canvas. Notice how the repetition is not monotonous — variations in size, spacing, or color keep the rhythm dynamic and engaging, much like syncopation in music.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Mondrian's geometric abstractions reduce painting to its essential elements: horizontal and vertical lines, primary colors, and non-colors (white, gray, black). The rhythm in his compositions comes from the repeated grid structure and the placement of colored rectangles within it. This rhythm is not decorative — it expresses Mondrian's philosophical belief that beneath the apparent chaos of nature lies a universal order of opposing forces (horizontal/vertical, color/non-color) in dynamic equilibrium. The rhythm IS the meaning: a visual meditation on cosmic harmony.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Balance
+
+Balance is the distribution of visual weight in a composition. Symmetrical balance mirrors elements across a central axis, creating formality and stability. Asymmetrical balance uses different elements of equal visual weight, creating dynamic equilibrium. Radial balance arranges elements around a central point.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/balance.jpg" alt="Artwork demonstrating balance">
+    <div class="attribution">Leonardo da Vinci, The Last Supper, 1495–1498 — Santa Maria delle Grazie, Milan / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Balance Works Here</h3>
+    <p>Observe how the artist distributes visual weight across the composition. Each element is carefully positioned to create equilibrium — whether through symmetrical mirroring or the more subtle achievement of asymmetrical balance, where different elements achieve equal visual impact through contrast in size, color, or placement.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>The Last Supper is a masterclass in compositional balance. Leonardo centers Christ at the exact midpoint of the long table, flanked by six apostles on each side who are further organized into four groups of three. The architecture of the room — with its coffered ceiling, tapestries, and three windows — creates a symmetrical framework that reinforces Christ's centrality. Yet the composition is not static: the apostles' varied gestures and expressions create asymmetrical energy within the symmetrical structure, capturing the dramatic moment when Christ announces "one of you will betray me." Balance here creates both stability and tension.</p>
+    </div>
+  </div>
+</div>
+
+---
