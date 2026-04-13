@@ -128,7 +128,7 @@ $mutedText: #B8A99A;
   &.title-slide {
     text-align: center;
 
-    h1, h2, h3, h4, h5, h6 {
+    h1 {
       border: none;
       padding-bottom: 0;
       margin-bottom: 0.3em;
@@ -152,7 +152,7 @@ $mutedText: #B8A99A;
   &.section-intro {
     text-align: center;
 
-    h1, h2, h3, h4, h5, h6 {
+    h1, h2 {
       border: none;
       display: block;
       margin-bottom: 0.3em;
