@@ -91,3 +91,72 @@ Form refers to three-dimensional objects or the illusion of 3D in 2D work. Forms
 </div>
 
 ---
+
+<span class="section-label">Elements of Art</span>
+
+## Value
+
+Value refers to the lightness or darkness of a color or tone. It creates contrast, defines form, and establishes mood. A wide value range creates drama, while a narrow range produces subtlety and atmosphere.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/elements/value.jpg" alt="Artwork demonstrating use of value">
+    <div class="attribution">Caravaggio, The Calling of Saint Matthew, c. 1599–1600 — Contarelli Chapel, San Luigi dei Francesi, Rome / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Value Works Here</h3>
+    <p>Notice how the artist uses extreme contrasts between light and dark to create dramatic impact. The brightest areas draw the eye immediately, while shadows conceal and reveal selectively. This technique, called chiaroscuro, uses value not just to describe form but to direct attention and create emotional intensity.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>The Calling of Saint Matthew depicts the moment Jesus summons the tax collector Matthew to become his disciple. Caravaggio's revolutionary use of value — a diagonal beam of light cutting through darkness — makes the divine visible. The light doesn't illuminate the whole scene; it selects, just as divine grace selects. Value becomes narrative: the contrast between light and dark mirrors the contrast between the worldly tax collectors and the spiritual calling that transforms them.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Elements of Art</span>
+
+## Space
+
+Space is the area within, around, between, above, or below elements in a work. Artists create the illusion of depth on a 2D surface using perspective, overlapping, size variation, and atmospheric effects. Space can also refer to negative space — the empty areas that define forms.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/elements/space.jpg" alt="Artwork demonstrating use of space">
+    <div class="attribution">Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831 — Public Domain / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Space Works Here</h3>
+    <p>This artwork masterfully manipulates space to create depth and scale. The foreground, middle ground, and background are clearly distinguished. The vast empty sky contrasts with the dense activity below, creating a sense of the sublime — the feeling of being overwhelmed by nature's scale and power.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>The Great Wave is one of the most recognizable images in world art. Hokusai uses space to create a terrifying and beautiful confrontation between human fragility and nature's power. The massive wave dominates the foreground, its claw-like crest looming over the tiny fishermen in their boats. In the far distance, Mount Fuji sits small and serene — the eternal mountain dwarfed by the temporary fury of the sea. The vast empty sky amplifies the drama below, showing how space itself can be an expressive element.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Elements of Art</span>
+
+## Color
+
+Color is the most expressive element, composed of hue (the color name), saturation (intensity), and value (lightness/darkness). Colors carry emotional associations and can create harmony or tension through their relationships on the color wheel.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/elements/color.jpg" alt="Artwork demonstrating use of color">
+    <div class="attribution">Vincent van Gogh, Sunflowers, 1888 — National Gallery, London / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Color Works Here</h3>
+    <p>The artist's bold use of color creates an immediate emotional response. Warm colors advance toward the viewer while cool colors recede, creating spatial depth. The intensity and saturation of the colors convey energy, passion, and vitality that go far beyond simple representation.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Van Gogh's Sunflowers series was painted in Arles to decorate the room where his friend Paul Gauguin would stay. The paintings are almost monochromatic — varying shades of yellow from pale lemon to deep ochre — yet they vibrate with emotional intensity. For Van Gogh, yellow was the color of happiness, friendship, and the life-giving sun. The sunflowers themselves are at various stages of bloom and decay, suggesting the cycle of life. Color here is not decorative; it is the carrier of meaning and emotion.</p>
+    </div>
+  </div>
+</div>
+
+---
