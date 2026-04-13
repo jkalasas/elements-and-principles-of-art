@@ -463,3 +463,76 @@ Let's analyze specific works to see this interplay in action.
 </div>
 
 ---
+
+<span class="section-label">Interrelatedness</span>
+
+## The Great Wave — Katsushika Hokusai (c. 1831)
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/interrelatedness/great-wave.jpg" alt="The Great Wave off Kanagawa by Hokusai">
+    <div class="attribution">Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831 — Public Domain / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Elements at Play</h3>
+    <p><strong>Line:</strong> The powerful contour line of the wave creates a claw-like shape that dominates the composition, its curves echoing the smaller waves below.</p>
+    <p><strong>Form:</strong> The wave appears three-dimensional, towering over the tiny boats and Mount Fuji, creating a dramatic sense of scale.</p>
+    <p><strong>Space:</strong> The vast empty sky contrasts with the dense, active foreground, creating tension between openness and claustrophobia.</p>
+
+    <h3>Principles at Play</h3>
+    <p><strong>Balance:</strong> Asymmetrical balance — the massive wave on the left is counterweighted by the small but significant Mount Fuji on the right.</p>
+    <p><strong>Emphasis:</strong> The wave is the undeniable focal point, its size and position commanding immediate attention.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>This iconic woodblock print captures the overwhelming power of nature against human fragility. The interplay of line (the wave's dynamic contour), form (its three-dimensional menace), balance (asymmetrical tension), and emphasis (the wave as dominant force) creates a meditation on humanity's relationship with nature — awe, respect, and vulnerability. Mount Fuji, distant and still, represents permanence against the wave's transient fury.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Interrelatedness</span>
+
+## The Third of May 1808 — Francisco Goya (1814)
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/interrelatedness/guernica.jpg" alt="The Third of May 1808 by Francisco Goya">
+    <div class="attribution">Francisco Goya, The Third of May 1808, 1814 — Museo del Prado, Madrid / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Elements at Play</h3>
+    <p><strong>Value:</strong> The stark contrast between the brightly lit central figure and the surrounding darkness creates a theatrical, harrowing scene.</p>
+    <p><strong>Shape:</strong> The angular, geometric firing squad contrasts with the organic, collapsing forms of the victims, creating visual opposition.</p>
+    <p><strong>Color:</strong> The limited palette — mostly dark earth tones with the brilliant white and yellow of the central figure's shirt — focuses all attention on the man about to be executed.</p>
+
+    <h3>Principles at Play</h3>
+    <p><strong>Contrast:</strong> Light vs. dark, individual vs. faceless group, life vs. death — every contrast in the painting heightens the emotional drama.</p>
+    <p><strong>Variety:</strong> The diverse reactions of the victims — defiance, prayer, collapse — create a panorama of human responses to mortality.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Goya's The Third of May 1808 depicts the execution of Spanish civilians by Napoleon's soldiers. The interplay of value (the central figure illuminated like a secular crucifixion), contrast (the faceless, mechanical firing squad vs. the expressive, individualized victims), and variety (each victim responds differently to death) creates one of the most powerful anti-war images ever made. Goya doesn't glorify battle or heroism — he shows the ugly reality of state violence against ordinary people. The lantern on the ground, the only light source, illuminates horror rather than truth.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- slide class="recap-slide" -->
+
+<span class="section-label">Interrelatedness</span>
+
+## Key Takeaway
+
+Elements and principles are not separate categories.
+Every artwork uses them in combination:
+
+- **Color + Rhythm + Movement** → emotional energy (Starry Night)
+- **Line + Form + Balance + Emphasis** → dynamic tension (Great Wave)
+- **Value + Shape + Contrast + Variety** → horror and empathy (Third of May 1808)
+
+Understanding art means seeing how these elements and principles interact to create meaning beyond what any single element could achieve alone.
+
+---
