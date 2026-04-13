@@ -331,3 +331,91 @@ Gradation is a gradual transition from one state to another — light to dark, l
 </div>
 
 ---
+
+<span class="section-label">Principles of Art</span>
+
+## Harmony
+
+Harmony is the sense of unity and cohesion in a work — when all elements feel like they belong together. It is achieved through repetition of similar elements, consistent color schemes, or shared visual qualities. Harmony creates a feeling of completeness and satisfaction.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/harmony.jpg" alt="Artwork demonstrating harmony">
+    <div class="attribution">Claude Monet, Impression, Sunrise, 1872 — Musee Marmottan Monet, Paris / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Harmony Works Here</h3>
+    <p>Every element in this composition feels connected and purposeful. The artist achieves harmony through a unified color palette, repeated shapes or motifs, and a consistent mood or atmosphere. Nothing feels out of place — the work exists as a complete, self-contained visual world.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>This painting gave its name to an entire art movement — Impressionism. Monet captures a fleeting moment at the harbor of Le Havre, where the orange sun rises through a misty blue atmosphere. The harmony comes from the unified color palette of blues and oranges, the repeated brushstroke technique that treats sky, water, and boats with the same loose, atmospheric touch, and the enveloping haze that dissolves hard edges. Everything belongs to the same moment, the same light, the same atmosphere — a harmony of perception.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Variety
+
+Variety introduces diversity and contrast to prevent monotony. It uses different elements — varied shapes, colors, textures, sizes — to create visual interest and complexity. Too much variety creates chaos; too little creates boredom. The best works balance variety with harmony.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/variety.jpg" alt="Artwork demonstrating variety">
+    <div class="attribution">Pieter Bruegel the Elder, The Tower of Babel, 1563 — Kunsthistorisches Museum, Vienna / Google Art Project / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Variety Works Here</h3>
+    <p>This work is rich with diverse elements — multiple figures, varied activities, contrasting textures, and a wealth of visual detail. Each area offers something new to discover, rewarding close and repeated looking. The artist manages this variety without losing coherence, creating a world that is complex yet readable.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Bruegel's Tower of Babel is a masterpiece of visual variety. The enormous tower dominates the composition, but every inch of the painting teems with activity — cranes lifting stone, workers carving arches, boats unloading cargo, a city sprawling in the distance. The variety of architectural details, human activities, and landscape features creates an entire world within a single frame. Yet Bruegel maintains coherence through the spiral structure of the tower, which draws the eye upward and unifies the chaos. The variety itself tells the story: humanity's boundless ambition expressed through an infinite variety of construction.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Movement
+
+Movement is how the artist guides the viewer's eye through a composition and the suggestion of motion within the work. It can be literal (depicting things in motion) or implied (using lines, shapes, and composition to create a sense of flow). Movement gives art a temporal dimension — it unfolds over time as we look.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/movement.jpg" alt="Artwork demonstrating movement">
+    <div class="attribution">Umberto Boccioni, Unique Forms of Continuity in Space, 1913 — Various collections / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Movement Works Here</h3>
+    <p>The artist captures motion in a way that makes the static image feel alive. Curving lines, dynamic poses, and compositional flow all contribute to a sense of energy and direction. The viewer's eye is pulled through the composition following the paths the artist has created.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Boccioni's sculpture is the Futurist movement's most iconic work — a figure striding forward so forcefully that its body seems to dissolve into the air it moves through. The bronze figure has no arms or head; it is pure forward momentum. The flowing, flame-like forms trailing behind the legs suggest the displacement of air, the friction of speed, the transformation of the body by its own movement. This is movement not as a subject but as the entire content of the work — a celebration of speed, technology, and the modern world that the Futurists believed was the future of art.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- slide class="recap-slide" -->
+
+<span class="section-label">Principles of Art</span>
+
+## The Eight Principles — Recap
+
+- **Rhythm** — Repetition creating visual tempo
+- **Balance** — Distribution of visual weight (symmetrical or asymmetrical)
+- **Emphasis (Contrast)** — Creating focal points through difference
+- **Proportion** — Size relationships between elements
+- **Gradation** — Gradual transitions creating depth and interest
+- **Harmony** — Unity and cohesion across the composition
+- **Variety** — Diversity preventing monotony
+- **Movement** — Guiding the viewer's eye through the work
+
+Together, elements and principles create the full visual language.
+
+---
