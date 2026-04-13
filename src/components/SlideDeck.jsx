@@ -52,11 +52,15 @@ export default function SlideDeck() {
     navigate(`/slide/${next}`, { replace: true });
   }, [currentIndex, navigate]);
 
+  const handleGoToSlide = useCallback((slideIndex) => {
+    navigate(`/slide/${slideIndex}`, { replace: true });
+  }, [navigate]);
+
   const Component = slideComponents[slide.type];
 
   return (
     <>
-      <Navigation currentIndex={currentIndex} totalSlides={slidesData.length} onNavigate={handleNavigate} />
+      <Navigation currentIndex={currentIndex} totalSlides={slidesData.length} onNavigate={handleNavigate} onGoToSlide={handleGoToSlide} />
       <AnimatePresence mode="wait">
         <motion.div
           key={currentIndex}
