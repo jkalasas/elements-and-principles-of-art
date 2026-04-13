@@ -635,3 +635,62 @@ where boundaries between disciplines, mediums, and technologies
 are constantly being redefined and expanded.
 
 ---
+
+<span class="section-label">Summary</span>
+
+## What We've Learned
+
+**Elements of Art** — The raw materials: Line, Shape, Form, Value, Space, Color, Texture
+
+**Principles of Art** — The organizing rules: Rhythm, Balance, Emphasis, Proportion, Gradation, Harmony, Variety, Movement
+
+**Interrelatedness** — Elements and principles work together in artworks to create meaning greater than the sum of their parts
+
+**Hybrid Art** — The boundaries between art forms are fluid and constantly evolving, creating new possibilities for expression
+
+Art is a language. The elements are its vocabulary. The principles are its grammar. Together, they allow artists to communicate ideas, emotions, and perspectives that words alone cannot express.
+
+---
+
+<span class="section-label">References</span>
+
+## Image Attributions
+
+### Elements of Art
+- Paul Klee, Ad Parnassum, 1927 — Kunstmuseum Bern / Google Art Project / Wikimedia Commons
+- Wassily Kandinsky, Composition VIII, 1923 — Guggenheim Museum / Google Art Project / Wikimedia Commons
+- Michelangelo, David, 1501–1504 — Galleria dell'Accademia, Florence / Wikimedia Commons
+- Caravaggio, The Calling of Saint Matthew, c. 1599–1600 — Contarelli Chapel, Rome / Wikimedia Commons
+- Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831 — Public Domain / Wikimedia Commons
+- Vincent van Gogh, Sunflowers, 1888 — National Gallery, London / Wikimedia Commons
+- Vincent van Gogh, The Starry Night, 1889 — MoMA, New York / Google Art Project / Wikimedia Commons
+
+### Principles of Art
+- Piet Mondrian, Composition with Red Blue and Yellow, 1930 — Kunstmuseum Basel / Wikimedia Commons
+- Leonardo da Vinci, The Last Supper, 1495–1498 — Santa Maria delle Grazie, Milan / Wikimedia Commons
+- Edvard Munch, The Scream, 1893 — National Gallery of Norway / Wikimedia Commons
+- Kouros of Anavyssos, c. 530 BCE — National Archaeological Museum, Athens / Wikimedia Commons
+- Mark Rothko, Seagram Murals, 1958–1959 — Fondation Louis Vuitton, Paris / Wikimedia Commons
+- Claude Monet, Impression, Sunrise, 1872 — Musee Marmottan Monet, Paris / Wikimedia Commons
+- Pieter Bruegel the Elder, The Tower of Babel, 1563 — Kunsthistorisches Museum, Vienna / Wikimedia Commons
+- Umberto Boccioni, Unique Forms of Continuity in Space, 1913 — Various collections / Wikimedia Commons
+
+### Interrelatedness
+- Vincent van Gogh, The Starry Night, 1889 — Museum of Modern Art, New York
+- Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831 — Public Domain / Wikimedia Commons
+- Francisco Goya, The Third of May 1808, 1814 — Museo del Prado, Madrid / Wikimedia Commons
+
+### Hybrid Art
+- Vincent van Gogh, Self-Portrait with a Straw Hat, 1887 — The Met, New York / Open Access
+- The Parthenon, Athens — Architectural projection mapping example / Wikimedia Commons
+- Hannah Hoch, Cut with the Kitchen Knife Dada, 1919 — Staatliche Museen zu Berlin / Wikimedia Commons
+
+---
+
+<!-- slide class="section-intro" -->
+
+<div class="section-number">◆</div>
+
+<span class="section-label">Elements and Principles of Art</span>
+
+## Questions?
