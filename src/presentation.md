@@ -572,3 +572,66 @@ This fusion creates new expressive possibilities that neither form could achieve
 </div>
 
 ---
+
+<span class="section-label">Hybrid Art</span>
+
+## Sculpture + Projection Mapping
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/hybrid/sculpture-projection.jpg" alt="Sculpture with projection mapping">
+    <div class="attribution">The Parthenon, Athens — example of architectural projection mapping / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Art Forms Combined</h3>
+    <p><strong>Sculpture:</strong> Three-dimensional physical form — stone, metal, or architectural structure — providing a tangible, permanent presence in space.</p>
+    <p><strong>Projection Mapping:</strong> Digital video and light projected onto the physical form, transforming the static object with animation, color, and motion.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Projection mapping transforms permanent, static objects into dynamic, ever-changing experiences. The sculpture provides physical presence and cultural weight, while the projection brings it to life with narrative, color, and movement. This hybrid form questions the boundary between permanent and ephemeral art — the sculpture endures, but each projection is a unique, unrepeatable moment. It represents the marriage of ancient art forms with cutting-edge technology.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Hybrid Art</span>
+
+## Photography + Collage + Digital Manipulation
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/hybrid/photo-collage.jpg" alt="Mixed-media work combining photography, collage, and digital manipulation">
+    <div class="attribution">Hannah Höch, Cut with the Kitchen Knife Dada Through the Last Weimar Beer-Belly Cultural Epoch in Germany, 1919 — Staatliche Museen zu Berlin / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Art Forms Combined</h3>
+    <p><strong>Photography:</strong> Capturing reality through the lens — documentary truth, specific moments frozen in time.</p>
+    <p><strong>Collage:</strong> Cutting, arranging, and assembling multiple images to create a new composition that transcends any single photograph.</p>
+    <p><strong>Digital Manipulation:</strong> Software tools for blending, color grading, and compositing that enable seamless integration of disparate elements.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Hannah Höch was a pioneer of photomontage, cutting up photographs from magazines and newspapers to create new compositions that commented on politics, gender, and society. This hybrid form challenges the idea that a single photograph can capture truth. By combining multiple perspectives, moments, and images, the artist creates a more complete — or perhaps more honest — representation of experience. Höch's joiners showed that human perception is not a single frame but a mosaic of glances and moments. This approach acknowledges that reality is multifaceted and that art can embrace complexity rather than reducing it to a single viewpoint.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- slide class="recap-slide" -->
+
+<span class="section-label">Hybrid Art</span>
+
+## Hybrid Art Pushes Boundaries
+
+- **Digital + Traditional** → Preserves heritage while embracing new tools
+- **Sculpture + Projection** → Transforms static objects into dynamic experiences
+- **Photography + Collage + Digital** → Multiple perspectives in a single frame
+
+Hybrid art reflects our increasingly interconnected world —
+where boundaries between disciplines, mediums, and technologies
+are constantly being redefined and expanded.
+
+---
