@@ -27,12 +27,12 @@ $mutedText: #B8A99A;
   }
 
   h1 {
-    font-size: 2.8em;
+    font-size: 2.4em;
     line-height: 1.1;
   }
 
   h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     margin-bottom: 0.6em;
     border-bottom: 2px solid $accentColor;
     padding-bottom: 0.2em;
@@ -40,14 +40,14 @@ $mutedText: #B8A99A;
   }
 
   h3 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     color: $accentColor;
     margin-bottom: 0.4em;
   }
 
   p, li {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 0.75em;
+    font-size: 0.85em;
     line-height: 1.6;
     color: $mainColor;
   }
@@ -66,9 +66,9 @@ $mutedText: #B8A99A;
 
   .section-label {
     font-family: 'Inter', sans-serif;
-    font-size: 0.45em;
+    font-size: 0.7em;
     text-transform: uppercase;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.15em;
     color: $accentColor;
     margin-bottom: 0.3em;
     display: block;
@@ -91,7 +91,7 @@ $mutedText: #B8A99A;
       }
 
       .attribution {
-        font-size: 0.4em;
+        font-size: 0.7em;
         color: $mutedText;
         margin-top: 0.5em;
         font-style: italic;
@@ -109,16 +109,16 @@ $mutedText: #B8A99A;
         border-radius: 0 4px 4px 0;
 
         .meaning-label {
-          font-size: 0.4em;
+          font-size: 0.7em;
           text-transform: uppercase;
-          letter-spacing: 0.15em;
+          letter-spacing: 0.1em;
           color: $accentColor;
           display: block;
           margin-bottom: 0.3em;
         }
 
         p {
-          font-size: 0.65em;
+          font-size: 0.8em;
           color: $mainColor;
         }
       }
@@ -135,7 +135,7 @@ $mutedText: #B8A99A;
     }
 
     .subtitle {
-      font-size: 0.8em;
+      font-size: 1em;
       color: $mutedText;
       font-style: italic;
     }
@@ -160,7 +160,7 @@ $mutedText: #B8A99A;
 
     .section-number {
       font-family: 'Playfair Display', serif;
-      font-size: 4em;
+      font-size: 3.5em;
       color: $accentColor;
       opacity: 0.3;
       display: block;
@@ -187,7 +187,7 @@ $mutedText: #B8A99A;
           position: absolute;
           left: 0;
           color: $accentColor;
-          font-size: 0.6em;
+          font-size: 0.7em;
           top: 0.5em;
         }
       }
@@ -202,13 +202,13 @@ $mutedText: #B8A99A;
 
     .card-title {
       font-family: 'Playfair Display', serif;
-      font-size: 0.85em;
+      font-size: 1em;
       color: $accentColor;
       margin-bottom: 0.3em;
     }
 
     .elements-used, .principles-used {
-      font-size: 0.55em;
+      font-size: 0.7em;
       color: $mutedText;
 
       strong {
@@ -233,5 +233,5 @@ $mutedText: #B8A99A;
 .reveal .slide-number {
   font-family: 'Inter', sans-serif;
   color: $mutedText;
-  font-size: 0.4em;
+  font-size: 0.5em;
 }
