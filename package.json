@@ -1,21 +1,19 @@
 {
   "name": "art-presentation",
   "version": "1.0.0",
-  "description": "- Enumerate the different elements of visual art - Differentiate the principles of art - Provide examples of the interrelatedness of some of the elements and principles of art in the study of artworks. - Illustrate examples of hybrid art and dissect what art forms are combined therein.",
-  "main": "index.js",
+  "description": "Elements and Principles of Art presentation",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
     "reveal.js": "^5.2.1"
   },
   "devDependencies": {
-    "sass": "^1.99.0"
+    "sass": "^1.99.0",
+    "vite": "^7.3.2"
   }
 }
