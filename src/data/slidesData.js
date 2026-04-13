@@ -555,7 +555,7 @@ const slidesData = [
     sectionLabel: 'Interrelatedness',
     title: 'The Third of May 1808 — Francisco Goya (1814)',
     artwork: {
-      imageSrc: '/images/interrelatedness/guernica.jpg',
+      imageSrc: '/images/interrelatedness/third-of-may.jpg',
       imageAlt: 'The Third of May 1808 by Francisco Goya',
       attribution:
         'Francisco Goya, The Third of May 1808, 1814 — Museo del Prado, Madrid / Wikimedia Commons',
@@ -787,7 +787,7 @@ const slidesData = [
         attributions: [
           'Vincent van Gogh, Self-Portrait with a Straw Hat, 1887 — The Met, New York / Open Access',
           'The Parthenon, Athens — Architectural projection mapping example / Wikimedia Commons',
-          'Hannah Hoch, Cut with the Kitchen Knife Dada, 1919 — Staatliche Museen zu Berlin / Wikimedia Commons',
+          'Hannah Höch, Cut with the Kitchen Knife Dada, 1919 — Staatliche Museen zu Berlin / Wikimedia Commons',
         ],
       },
     ],
