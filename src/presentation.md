@@ -536,3 +536,39 @@ Every artwork uses them in combination:
 Understanding art means seeing how these elements and principles interact to create meaning beyond what any single element could achieve alone.
 
 ---
+
+<!-- slide class="section-intro" -->
+
+<span class="section-label">Hybrid Art</span>
+
+<span class="section-number">04</span>
+
+## When Art Forms Combine
+
+Hybrid art blends two or more distinct art forms, mediums, or techniques into a single work.
+This fusion creates new expressive possibilities that neither form could achieve alone.
+
+---
+
+<span class="section-label">Hybrid Art</span>
+
+## Digital Painting — Traditional Techniques Meet Digital Tools
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/hybrid/digital-painting.jpg" alt="Digital painting combining traditional oil techniques with digital tools">
+    <div class="attribution">Vincent van Gogh, Self-Portrait with a Straw Hat, 1887 — The Metropolitan Museum of Art, New York / Open Access</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Art Forms Combined</h3>
+    <p><strong>Traditional Oil Painting:</strong> Brushwork techniques, color mixing, compositional principles from centuries of painting tradition, understanding of light and shadow.</p>
+    <p><strong>Digital Art:</strong> Digital tablets, layering software, undo/redo capabilities, digital brushes that mimic or transcend physical media, infinite color precision.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Digital painting represents the evolution of artistic practice — artists carry the knowledge and techniques of traditional painting into a new medium. The result maintains the aesthetic warmth of oil painting while gaining the flexibility of digital tools. This hybrid form democratizes art-making (no need for expensive materials) while preserving the visual language of centuries of painting tradition. It raises questions about authenticity, craftsmanship, and what it means to be an artist in the digital age. Artists today can emulate the atmospheric effects of Caspar David Friedrich or the luminous color of Turner using only a tablet and software — carrying the Romantic tradition into the digital era.</p>
+    </div>
+  </div>
+</div>
+
+---
