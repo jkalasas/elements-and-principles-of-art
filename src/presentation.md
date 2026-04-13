@@ -419,3 +419,47 @@ Movement is how the artist guides the viewer's eye through a composition and the
 Together, elements and principles create the full visual language.
 
 ---
+
+---
+
+<!-- slide class="section-intro" -->
+
+<span class="section-label">Interrelatedness</span>
+
+<span class="section-number">03</span>
+
+## Elements and Principles Working Together
+
+In real artworks, elements and principles don't exist in isolation.
+They interact, reinforce, and sometimes contradict each other to create meaning.
+Let's analyze specific works to see this interplay in action.
+
+---
+
+<span class="section-label">Interrelatedness</span>
+
+## The Starry Night — Vincent van Gogh (1889)
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/interrelatedness/starry-night.jpg" alt="The Starry Night by Vincent van Gogh">
+    <div class="attribution">Vincent van Gogh, The Starry Night, 1889 — Museum of Modern Art, New York</div>
+  </div>
+  <div class="artwork-content">
+    <h3>Elements at Play</h3>
+    <p><strong>Color:</strong> Deep blues and vibrant yellows create emotional intensity. The complementary color scheme makes the stars and moon appear to glow against the dark sky.</p>
+    <p><strong>Line:</strong> Swirling, curving lines dominate the composition, creating energy and turbulence in the sky.</p>
+    <p><strong>Value:</strong> Strong contrast between bright celestial bodies and the dark blue sky draws the eye.</p>
+
+    <h3>Principles at Play</h3>
+    <p><strong>Rhythm:</strong> Repeated swirl and curves create a visual rhythm pulling the eye across the canvas in circular motion.</p>
+    <p><strong>Movement:</strong> The swirling lines suggest motion — the sky appears alive and turbulent.</p>
+
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Painted from the window of Van Gogh's asylum room, The Starry Night expresses the artist's emotional turbulence and his vision of the night sky as a living, breathing force. The interplay of color (passion) with rhythm (energy) and movement (turbulence) creates a work that is both a landscape and an emotional self-portrait. The calm village below contrasts with the chaos above — a duality of peace and turmoil.</p>
+    </div>
+  </div>
+</div>
+
+---
