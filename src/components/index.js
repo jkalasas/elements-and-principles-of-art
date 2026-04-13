@@ -1,3 +1,11 @@
 export { default as SlideDeck } from './SlideDeck';
 export { default as Navigation } from './Navigation';
 export { default as ArtworkBlock } from './ArtworkBlock';
+export { default as TitleSlide } from './TitleSlide';
+export { default as SectionIntroSlide } from './SectionIntroSlide';
+export { default as ArtworkSlide } from './ArtworkSlide';
+export { default as AnalysisSlide } from './AnalysisSlide';
+export { default as RecapSlide } from './RecapSlide';
+export { default as SummarySlide } from './SummarySlide';
+export { default as ClosingSlide } from './ClosingSlide';
+export { default as ReferencesSlide } from './ReferencesSlide';

@@ -3,6 +3,14 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { useCallback } from 'react';
 import slidesData from '../data/slidesData';
 import Navigation from './Navigation';
+import TitleSlide from './TitleSlide';
+import SectionIntroSlide from './SectionIntroSlide';
+import ArtworkSlide from './ArtworkSlide';
+import AnalysisSlide from './AnalysisSlide';
+import RecapSlide from './RecapSlide';
+import SummarySlide from './SummarySlide';
+import ClosingSlide from './ClosingSlide';
+import ReferencesSlide from './ReferencesSlide';
 
 // Stub component for slide types not yet registered
 const StubSlide = ({ type, title }) => (
@@ -13,8 +21,16 @@ const StubSlide = ({ type, title }) => (
   </div>
 );
 
-// Progressive registration — populated in Tasks 8-11
-const slideComponents = {};
+const slideComponents = {
+  title: TitleSlide,
+  sectionIntro: SectionIntroSlide,
+  artwork: ArtworkSlide,
+  analysis: AnalysisSlide,
+  recap: RecapSlide,
+  summary: SummarySlide,
+  closing: ClosingSlide,
+  references: ReferencesSlide,
+};
 
 const pageTransition = {
   initial: { opacity: 0, scale: 0.95 },
