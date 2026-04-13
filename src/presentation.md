@@ -262,3 +262,72 @@ Balance is the distribution of visual weight in a composition. Symmetrical balan
 </div>
 
 ---
+
+<span class="section-label">Principles of Art</span>
+
+## Emphasis (Contrast)
+
+Emphasis creates a focal point — the area that draws the viewer's attention first. Contrast is one of the most powerful tools for creating emphasis: differences in color, value, size, texture, or shape make certain elements stand out. Without emphasis, a composition can feel flat and directionless.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/emphasis.jpg" alt="Artwork demonstrating emphasis and contrast">
+    <div class="attribution">Edvard Munch, The Scream, 1893 — National Gallery of Norway / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Emphasis Works Here</h3>
+    <p>The artist creates a clear focal point through stark contrast — whether through dramatic differences in light and dark, vibrant color against muted tones, or a large element among smaller ones. Your eye is immediately drawn to the area of greatest contrast, establishing a visual hierarchy.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>The Scream is one of the most iconic images in art history, and its power comes from how the artist creates emphasis. The central figure — a gaunt, ghostly figure with a skull-like head and open mouth — is immediately the focal point. The swirling, blood-red sky behind it contrasts sharply with the figure's pale, deathly pallor. The dark, receding landscape and the distant figures who seem oblivious to the central figure's anguish create additional contrast. The emphasis is not just visual but emotional — the entire composition funnels attention to a single moment of existential terror.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Proportion
+
+Proportion refers to the size relationships between elements within a work and to the work as a whole. Classical proportion follows mathematical ratios (like the Golden Ratio), while distorted proportion can create expressiveness, humor, or unease. Proportion affects how we relate to what we see.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/proportion.jpg" alt="Artwork demonstrating proportion">
+    <div class="attribution">Kouros of Anavyssos, c. 530 BCE — National Archaeological Museum, Athens / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Proportion Works Here</h3>
+    <p>The careful proportions in this work create a sense of ideal beauty and harmony. The relationships between parts — the size of the head to the body, the width to the height — follow mathematical ratios that feel inherently pleasing. When artists deliberately distort proportion, they create emphasis, express emotion, or challenge our expectations.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>The Kouros of Anavyssos is an Archaic Greek statue of a young man that embodies the Greek pursuit of ideal proportion. Standing nearly six feet tall, the figure follows a canon of proportions where each part of the body relates harmoniously to the whole. The slightly enlarged head, the broad shoulders tapering to a narrow waist, the carefully calibrated spacing of the legs — all follow mathematical ratios that the Greeks believed reflected cosmic order. This is proportion as philosophy: the belief that beauty is not arbitrary but rooted in the mathematical structure of the universe itself.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<span class="section-label">Principles of Art</span>
+
+## Gradation
+
+Gradation is a gradual transition from one state to another — light to dark, large to small, warm to cool. It creates a sense of movement, depth, and visual interest. Gradation can suggest three-dimensional form, atmospheric perspective, or emotional progression within a single work.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/principles/gradation.jpg" alt="Artwork demonstrating gradation">
+    <div class="attribution">Mark Rothko, Seagram Murals, 1958–1959 — Fondation Louis Vuitton, Paris / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Gradation Works Here</h3>
+    <p>The subtle transitions between colors or values create a sense of depth and atmosphere. Unlike abrupt contrasts, gradation invites the viewer to linger and explore the space between states. This gradual shift creates visual tension that resolves slowly, producing a meditative or immersive experience.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Rothko's Seagram Murals are among the most powerful examples of gradation as expressive principle. The deep, dark panels with their soft, blurred rectangular forms create zones of transition that are impossible to locate precisely — the colors seem to hover, breathe, and pulse. Rothko intended viewers to stand close to his enormous canvases and be enveloped by color, experiencing something akin to a spiritual encounter. The gradation between color fields is not a technique — it is the content itself, the visual equivalent of an emotional crescendo or the slow shift of light at dusk.</p>
+    </div>
+  </div>
+</div>
+
+---
