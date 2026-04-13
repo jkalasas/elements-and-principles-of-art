@@ -160,3 +160,46 @@ Color is the most expressive element, composed of hue (the color name), saturati
 </div>
 
 ---
+
+---
+
+<span class="section-label">Elements of Art</span>
+
+## Texture
+
+Texture is the surface quality of an artwork — how it feels or appears to feel. Actual texture is physical and tactile (thick paint, rough stone). Implied texture is visual, created through technique to suggest how something would feel if touched.
+
+<div class="artwork">
+  <div class="artwork-image">
+    <img src="/images/elements/texture.jpg" alt="Artwork demonstrating use of texture">
+    <div class="attribution">Vincent van Gogh, The Starry Night, 1889 — Museum of Modern Art, New York / Google Art Project / Wikimedia Commons</div>
+  </div>
+  <div class="artwork-content">
+    <h3>How Texture Works Here</h3>
+    <p>The artist's visible brushstrokes create a rich, tactile surface. This impasto technique — applying paint thickly enough that brush or knife marks are visible — adds a physical dimension to the work. The texture itself becomes expressive, conveying the artist's energy and emotional state through the physicality of the paint.</p>
+    <div class="meaning">
+      <span class="meaning-label">Meaning</span>
+      <p>Painted from the window of Van Gogh's asylum room at Saint-Rémy-de-Provence, The Starry Night transforms a nocturnal landscape into a swirling vision of emotional intensity. The thick, rhythmic brushstrokes are not merely a technique — they are the physical record of the artist's hand moving across canvas, each stroke carrying the urgency and passion of Van Gogh's inner world. The texture makes the sky appear alive, churning with energy, while the village below is painted with smoother, calmer strokes — texture itself becomes the language of emotional expression.</p>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- slide class="recap-slide" -->
+
+<span class="section-label">Elements of Art</span>
+
+## The Seven Elements — Recap
+
+- **Line** — Marks connecting points, creating direction and movement
+- **Shape** — 2D areas defined by boundaries (geometric or organic)
+- **Form** — 3D objects or the illusion of depth
+- **Value** — Lightness and darkness, creating contrast and mood
+- **Space** — Areas within, around, and between elements
+- **Color** — Hue, saturation, and value — the most expressive element
+- **Texture** — Surface quality, real or implied
+
+These are the building blocks. The principles tell us how to arrange them.
+
+---
