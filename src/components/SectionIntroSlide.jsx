@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import MarkdownText from './MarkdownText';
 
 const fadeUp = (delay) => ({
   initial: { opacity: 0, y: 20 },
@@ -18,9 +19,9 @@ export default function SectionIntroSlide({ sectionLabel, sectionNumber, title, 
         {title}
       </motion.h2>
       {description && (
-        <motion.p className="section-description" {...fadeUp(0.7)}>
-          {description}
-        </motion.p>
+        <motion.div className="section-description" {...fadeUp(0.7)}>
+          <MarkdownText text={description} />
+        </motion.div>
       )}
     </div>
   );

@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import ArtworkBlock from './ArtworkBlock';
+import MarkdownText from './MarkdownText';
 
 const fadeUp = (delay) => ({
   initial: { opacity: 0, y: 20 },
@@ -42,7 +43,7 @@ export default function AnalysisSlide({ sectionLabel, title, artwork, elementsAt
       </div>
       <motion.div className="meaning-callout" {...fadeUp(1.3)}>
         <span className="meaning-label">{meaning.label}</span>
-        <p>{meaning.text}</p>
+        <MarkdownText text={meaning.text} />
       </motion.div>
     </div>
   );

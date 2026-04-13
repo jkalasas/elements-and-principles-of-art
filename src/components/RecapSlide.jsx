@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import MarkdownText from './MarkdownText';
 
 const fadeUp = (delay) => ({
   initial: { opacity: 0, y: 20 },
@@ -17,14 +18,14 @@ export default function RecapSlide({ sectionLabel, title, items, footerText }) {
       <ul className="recap-list">
         {items.map((item, i) => (
           <motion.li key={i} {...fadeUp(0.7 + i * 0.1)}>
-            {item}
+            <MarkdownText text={item} as="span" />
           </motion.li>
         ))}
       </ul>
       {footerText && (
-        <motion.p className="recap-footer" {...fadeUp(0.7 + items.length * 0.1)}>
-          {footerText}
-        </motion.p>
+        <motion.div className="recap-footer" {...fadeUp(0.7 + items.length * 0.1)}>
+          <MarkdownText text={footerText} />
+        </motion.div>
       )}
     </div>
   );

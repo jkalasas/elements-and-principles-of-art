@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import ArtworkBlock from './ArtworkBlock';
+import MarkdownText from './MarkdownText';
 
 const fadeUp = (delay) => ({
   initial: { opacity: 0, y: 20 },
@@ -32,7 +33,7 @@ export default function ArtworkSlide({ sectionLabel, title, definition, artwork 
             title={art.contentTitle}
             meaning={art.meaning}
           >
-            <p>{art.content}</p>
+            <MarkdownText text={art.content} />
           </ArtworkBlock>
         </motion.div>
       ))}

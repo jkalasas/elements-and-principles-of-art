@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
+import MarkdownText from './MarkdownText';
 
 export default function ArtworkBlock({ imageSrc, imageAlt, attribution, title, children, meaning }) {
   const [imageError, setImageError] = useState(false);
@@ -30,7 +31,7 @@ export default function ArtworkBlock({ imageSrc, imageAlt, attribution, title, c
             transition={{ delay: 1.1, duration: 0.4, ease: 'easeInOut' }}
           >
             <span className="meaning-label">{meaning.label}</span>
-            <p>{meaning.text}</p>
+            <MarkdownText text={meaning.text} />
           </motion.div>
         )}
       </div>
