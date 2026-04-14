@@ -33,6 +33,6 @@ describe('SlideDeck', () => {
   });
 
   it('renders correct number of slides in data', () => {
-    expect(slidesData.length).toBe(33);
+    expect(slidesData.length).toBe(42);
   });
 });

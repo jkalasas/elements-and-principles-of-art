@@ -659,10 +659,10 @@ const slidesData = [
       'Art is a language. The elements are its vocabulary. The principles are its grammar. Together, they allow artists to communicate ideas, emotions, and perspectives that words alone cannot express.',
   },
 
-  // SLIDE 32 - REFERENCES
+  // SLIDE 32 - REFERENCES PART 1
   {
     type: 'references',
-    id: 'references',
+    id: 'references-1',
     title: 'Image Attributions',
     sections: [
       {
@@ -690,6 +690,15 @@ const slidesData = [
           'Umberto Boccioni, Unique Forms of Continuity in Space, 1913 — Various collections / Wikimedia Commons',
         ],
       },
+    ],
+  },
+
+  // SLIDE 33 - REFERENCES PART 2
+  {
+    type: 'references',
+    id: 'references-2',
+    title: 'Image Attributions (cont.)',
+    sections: [
       {
         sectionName: 'Interrelatedness',
         attributions: [
@@ -709,7 +718,7 @@ const slidesData = [
     ],
   },
 
-  // SLIDE 33 - MC 1
+  // SLIDE 34 - MC 1
   {
     type: 'quiz',
     id: 'quiz-mc-1',
@@ -722,7 +731,7 @@ const slidesData = [
     },
   },
 
-  // SLIDE 34 - MC 2
+  // SLIDE 35 - MC 2
   {
     type: 'quiz',
     id: 'quiz-mc-2',
@@ -735,7 +744,7 @@ const slidesData = [
     },
   },
 
-  // SLIDE 35 - MC 3
+  // SLIDE 36 - MC 3
   {
     type: 'quiz',
     id: 'quiz-mc-3',
@@ -748,7 +757,7 @@ const slidesData = [
     },
   },
 
-  // SLIDE 36 - MC 4
+  // SLIDE 37 - MC 4
   {
     type: 'quiz',
     id: 'quiz-mc-4',
@@ -761,7 +770,7 @@ const slidesData = [
     },
   },
 
-  // SLIDE 37 - MC 5
+  // SLIDE 38 - MC 5
   {
     type: 'quiz',
     id: 'quiz-mc-5',
@@ -774,7 +783,7 @@ const slidesData = [
     },
   },
 
-  // SLIDE 38 - TRUE OR FALSE
+  // SLIDE 39 - TRUE OR FALSE
   {
     type: 'quiz',
     id: 'quiz-true-false',
@@ -789,7 +798,7 @@ const slidesData = [
     ],
   },
 
-  // SLIDE 39 - MATCHING
+  // SLIDE 40 - MATCHING
   {
     type: 'quiz',
     id: 'quiz-matching',
@@ -804,7 +813,7 @@ const slidesData = [
     ],
   },
 
-  // SLIDE 40 - SHORT ANSWER
+  // SLIDE 41 - SHORT ANSWER
   {
     type: 'quiz',
     id: 'quiz-short-answer',
@@ -818,7 +827,7 @@ const slidesData = [
     ],
   },
 
-  // SLIDE 41 - CLOSING
+  // SLIDE 42 - CLOSING
   {
     type: 'closing',
     id: 'closing',

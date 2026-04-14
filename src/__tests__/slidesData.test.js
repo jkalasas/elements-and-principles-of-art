@@ -19,8 +19,8 @@ describe('slidesData', () => {
   it('has the correct number of slides (excluding empty transitions)', () => {
     // Title + roadmap + 7 elements + 1 recap + 4 section intros + 
     // 8 principles + 1 recap + 3 analysis + 1 recap + 3 hybrid + 1 recap +
-    // summary + references + closing = 33
-    expect(slidesData.length).toBe(33);
+    // summary + 2 references + closing + 5 MC + 1 TF + 1 matching + 1 short answer = 42
+    expect(slidesData.length).toBe(42);
   });
 
   it('artwork slides have required fields', () => {
