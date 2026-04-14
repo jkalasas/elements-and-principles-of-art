@@ -35,10 +35,6 @@ const slidesData = [
         contentTitle: 'How Line Works Here',
         content:
           'Observe how the artist uses line as the primary structural element. Lines create boundaries between forms, suggest direction and flow, and establish a visual pathway for the eye to follow. Whether bold and expressive or delicate and precise, lines carry emotional weight and meaning.',
-        meaning: {
-          label: 'Meaning',
-          text: "Ad Parnassum is considered Paul Klee's masterpiece, composed of thousands of small dots and dashes of color that form a mosaic-like structure. The work demonstrates how line — even when broken into tiny marks — can create an entire visual world. The title references Mount Parnassus, home of the Muses in Greek mythology, suggesting this is Klee's ascent to artistic mastery through the fundamental element of line.",
-        },
       },
     ],
   },
@@ -60,10 +56,6 @@ const slidesData = [
         contentTitle: 'How Shape Works Here',
         content:
           'This artwork demonstrates the power of shape to organize visual space. Geometric shapes create order and precision, while organic shapes suggest natural forms and fluidity. The interplay between positive shapes (the forms themselves) and negative space (the areas around them) creates visual tension and interest.',
-        meaning: {
-          label: 'Meaning',
-          text: "Kandinsky's Composition VIII is a symphony of geometric shapes — circles, triangles, lines, and curves arranged in a carefully balanced non-representational composition. Created during his Bauhaus period, it reflects his belief that geometric forms carry spiritual meaning. The large circle dominates the composition, creating a focal point of calm amidst the dynamic geometric activity around it.",
-        },
       },
     ],
   },
@@ -85,10 +77,6 @@ const slidesData = [
         contentTitle: 'How Form Works Here',
         content:
           'The artist creates a convincing sense of three-dimensionality through careful attention to how light interacts with surfaces. Whether this is an actual 3D sculpture or a 2D work creating the illusion of depth, form gives the artwork physical presence and weight in space.',
-        meaning: {
-          label: 'Meaning',
-          text: "Michelangelo's David is the pinnacle of Renaissance sculpture, a 17-foot marble colossus that embodies ideal human form. Carved from a single block of marble that other sculptors had rejected as flawed, David demonstrates how form can express both physical perfection and psychological intensity. The figure stands in contrapposto — weight on one leg, body slightly turned — creating a dynamic tension between stillness and potential action, capturing the moment before David faces Goliath.",
-        },
       },
     ],
   },
@@ -110,10 +98,6 @@ const slidesData = [
         contentTitle: 'How Value Works Here',
         content:
           'Notice how the artist uses extreme contrasts between light and dark to create dramatic impact. The brightest areas draw the eye immediately, while shadows conceal and reveal selectively. This technique, called chiaroscuro, uses value not just to describe form but to direct attention and create emotional intensity.',
-        meaning: {
-          label: 'Meaning',
-          text: 'The Calling of Saint Matthew depicts the moment Jesus summons the tax collector Matthew to become his disciple. Caravaggio\'s revolutionary use of value — a diagonal beam of light cutting through darkness — makes the divine visible. The light doesn\'t illuminate the whole scene; it selects, just as divine grace selects. Value becomes narrative: the contrast between light and dark mirrors the contrast between the worldly tax collectors and the spiritual calling that transforms them.',
-        },
       },
     ],
   },
@@ -135,10 +119,6 @@ const slidesData = [
         contentTitle: 'How Space Works Here',
         content:
           'This artwork masterfully manipulates space to create depth and scale. The foreground, middle ground, and background are clearly distinguished. The vast empty sky contrasts with the dense activity below, creating a sense of the sublime — the feeling of being overwhelmed by nature\'s scale and power.',
-        meaning: {
-          label: 'Meaning',
-          text: "The Great Wave is one of the most recognizable images in world art. Hokusai uses space to create a terrifying and beautiful confrontation between human fragility and nature's power. The massive wave dominates the foreground, its claw-like crest looming over the tiny fishermen in their boats. In the far distance, Mount Fuji sits small and serene — the eternal mountain dwarfed by the temporary fury of the sea. The vast empty sky amplifies the drama below, showing how space itself can be an expressive element.",
-        },
       },
     ],
   },
@@ -160,10 +140,6 @@ const slidesData = [
         contentTitle: 'How Color Works Here',
         content:
           "The artist's bold use of color creates an immediate emotional response. Warm colors advance toward the viewer while cool colors recede, creating spatial depth. The intensity and saturation of the colors convey energy, passion, and vitality that go far beyond simple representation.",
-        meaning: {
-          label: 'Meaning',
-          text: "Van Gogh's Sunflowers series was painted in Arles to decorate the room where his friend Paul Gauguin would stay. The paintings are almost monochromatic — varying shades of yellow from pale lemon to deep ochre — yet they vibrate with emotional intensity. For Van Gogh, yellow was the color of happiness, friendship, and the life-giving sun. The sunflowers themselves are at various stages of bloom and decay, suggesting the cycle of life. Color here is not decorative; it is the carrier of meaning and emotion.",
-        },
       },
     ],
   },
@@ -185,10 +161,6 @@ const slidesData = [
         contentTitle: 'How Texture Works Here',
         content:
           "The artist's visible brushstrokes create a rich, tactile surface. This impasto technique — applying paint thickly enough that brush or knife marks are visible — adds a physical dimension to the work. The texture itself becomes expressive, conveying the artist's energy and emotional state through the physicality of the paint.",
-        meaning: {
-          label: 'Meaning',
-          text: "Painted from the window of Van Gogh's asylum room at Saint-Rémy-de-Provence, The Starry Night transforms a nocturnal landscape into a swirling vision of emotional intensity. The thick, rhythmic brushstrokes are not merely a technique — they are the physical record of the artist's hand moving across canvas, each stroke carrying the urgency and passion of Van Gogh's inner world. The texture makes the sky appear alive, churning with energy, while the village below is painted with smoother, calmer strokes — texture itself becomes the language of emotional expression.",
-        },
       },
     ],
   },
@@ -240,10 +212,6 @@ const slidesData = [
         contentTitle: 'How Rhythm Works Here',
         content:
           'The repeated elements in this composition create a visual beat that guides the eye across the canvas. Notice how the repetition is not monotonous — variations in size, spacing, or color keep the rhythm dynamic and engaging, much like syncopation in music.',
-        meaning: {
-          label: 'Meaning',
-          text: "Mondrian's geometric abstractions reduce painting to its essential elements: horizontal and vertical lines, primary colors, and non-colors (white, gray, black). The rhythm in his compositions comes from the repeated grid structure and the placement of colored rectangles within it. This rhythm is not decorative — it expresses Mondrian's philosophical belief that beneath the apparent chaos of nature lies a universal order of opposing forces (horizontal/vertical, color/non-color) in dynamic equilibrium. The rhythm IS the meaning: a visual meditation on cosmic harmony.",
-        },
       },
     ],
   },
@@ -265,10 +233,6 @@ const slidesData = [
         contentTitle: 'How Balance Works Here',
         content:
           'Observe how the artist distributes visual weight across the composition. Each element is carefully positioned to create equilibrium — whether through symmetrical mirroring or the more subtle achievement of asymmetrical balance, where different elements achieve equal visual impact through contrast in size, color, or placement.',
-        meaning: {
-          label: 'Meaning',
-          text: 'The Last Supper is a masterclass in compositional balance. Leonardo centers Christ at the exact midpoint of the long table, flanked by six apostles on each side who are further organized into four groups of three. The architecture of the room — with its coffered ceiling, tapestries, and three windows — creates a symmetrical framework that reinforces Christ\'s centrality. Yet the composition is not static: the apostles\' varied gestures and expressions create asymmetrical energy within the symmetrical structure, capturing the dramatic moment when Christ announces "one of you will betray me." Balance here creates both stability and tension.',
-        },
       },
     ],
   },
@@ -290,10 +254,6 @@ const slidesData = [
         contentTitle: 'How Emphasis Works Here',
         content:
           'The artist creates a clear focal point through stark contrast — whether through dramatic differences in light and dark, vibrant color against muted tones, or a large element among smaller ones. Your eye is immediately drawn to the area of greatest contrast, establishing a visual hierarchy.',
-        meaning: {
-          label: 'Meaning',
-          text: "The Scream is one of the most iconic images in art history, and its power comes from how the artist creates emphasis. The central figure — a gaunt, ghostly figure with a skull-like head and open mouth — is immediately the focal point. The swirling, blood-red sky behind it contrasts sharply with the figure's pale, deathly pallor. The dark, receding landscape and the distant figures who seem oblivious to the central figure's anguish create additional contrast. The emphasis is not just visual but emotional — the entire composition funnels attention to a single moment of existential terror.",
-        },
       },
     ],
   },
@@ -315,10 +275,6 @@ const slidesData = [
         contentTitle: 'How Proportion Works Here',
         content:
           'The careful proportions in this work create a sense of ideal beauty and harmony. The relationships between parts — the size of the head to the body, the width to the height — follow mathematical ratios that feel inherently pleasing. When artists deliberately distort proportion, they create emphasis, express emotion, or challenge our expectations.',
-        meaning: {
-          label: 'Meaning',
-          text: 'The Kouros of Anavyssos is an Archaic Greek statue of a young man that embodies the Greek pursuit of ideal proportion. Standing nearly six feet tall, the figure follows a canon of proportions where each part of the body relates harmoniously to the whole. The slightly enlarged head, the broad shoulders tapering to a narrow waist, the carefully calibrated spacing of the legs — all follow mathematical ratios that the Greeks believed reflected cosmic order. This is proportion as philosophy: the belief that beauty is not arbitrary but rooted in the mathematical structure of the universe itself.',
-        },
       },
     ],
   },
@@ -340,10 +296,6 @@ const slidesData = [
         contentTitle: 'How Gradation Works Here',
         content:
           'The subtle transitions between colors or values create a sense of depth and atmosphere. Unlike abrupt contrasts, gradation invites the viewer to linger and explore the space between states. This gradual shift creates visual tension that resolves slowly, producing a meditative or immersive experience.',
-        meaning: {
-          label: 'Meaning',
-          text: "Rothko's Seagram Murals are among the most powerful examples of gradation as expressive principle. The deep, dark panels with their soft, blurred rectangular forms create zones of transition that are impossible to locate precisely — the colors seem to hover, breathe, and pulse. Rothko intended viewers to stand close to his enormous canvases and be enveloped by color, experiencing something akin to a spiritual encounter. The gradation between color fields is not a technique — it is the content itself, the visual equivalent of an emotional crescendo or the slow shift of light at dusk.",
-        },
       },
     ],
   },
@@ -365,10 +317,6 @@ const slidesData = [
         contentTitle: 'How Harmony Works Here',
         content:
           'Every element in this composition feels connected and purposeful. The artist achieves harmony through a unified color palette, repeated shapes or motifs, and a consistent mood or atmosphere. Nothing feels out of place — the work exists as a complete, self-contained visual world.',
-        meaning: {
-          label: 'Meaning',
-          text: 'This painting gave its name to an entire art movement — Impressionism. Monet captures a fleeting moment at the harbor of Le Havre, where the orange sun rises through a misty blue atmosphere. The harmony comes from the unified color palette of blues and oranges, the repeated brushstroke technique that treats sky, water, and boats with the same loose, atmospheric touch, and the enveloping haze that dissolves hard edges. Everything belongs to the same moment, the same light, the same atmosphere — a harmony of perception.',
-        },
       },
     ],
   },
@@ -390,10 +338,6 @@ const slidesData = [
         contentTitle: 'How Variety Works Here',
         content:
           'This work is rich with diverse elements — multiple figures, varied activities, contrasting textures, and a wealth of visual detail. Each area offers something new to discover, rewarding close and repeated looking. The artist manages this variety without losing coherence, creating a world that is complex yet readable.',
-        meaning: {
-          label: 'Meaning',
-          text: "Bruegel's Tower of Babel is a masterpiece of visual variety. The enormous tower dominates the composition, but every inch of the painting teems with activity — cranes lifting stone, workers carving arches, boats unloading cargo, a city sprawling in the distance. The variety of architectural details, human activities, and landscape features creates an entire world within a single frame. Yet Bruegel maintains coherence through the spiral structure of the tower, which draws the eye upward and unifies the chaos. The variety itself tells the story: humanity's boundless ambition expressed through an infinite variety of construction.",
-        },
       },
     ],
   },
@@ -415,10 +359,6 @@ const slidesData = [
         contentTitle: 'How Movement Works Here',
         content:
           "The artist captures motion in a way that makes the static image feel alive. Curving lines, dynamic poses, and compositional flow all contribute to a sense of energy and direction. The viewer's eye is pulled through the composition following the paths the artist has created.",
-        meaning: {
-          label: 'Meaning',
-          text: "Boccioni's sculpture is the Futurist movement's most iconic work — a figure striding forward so forcefully that its body seems to dissolve into the air it moves through. The bronze figure has no arms or head; it is pure forward momentum. The flowing, flame-like forms trailing behind the legs suggest the displacement of air, the friction of speed, the transformation of the body by its own movement. This is movement not as a subject but as the entire content of the work — a celebration of speed, technology, and the modern world that the Futurists believed was the future of art.",
-        },
       },
     ],
   },
@@ -495,10 +435,6 @@ const slidesData = [
           'The swirling lines suggest motion — the sky appears alive and turbulent.',
       },
     ],
-    meaning: {
-      label: 'Meaning',
-      text: "Painted from the window of Van Gogh's asylum room, The Starry Night expresses the artist's emotional turbulence and his vision of the night sky as a living, breathing force. The interplay of color (passion) with rhythm (energy) and movement (turbulence) creates a work that is both a landscape and an emotional self-portrait. The calm village below contrasts with the chaos above — a duality of peace and turmoil.",
-    },
   },
 
   // SLIDE 23 - ANALYSIS: Great Wave
@@ -542,10 +478,6 @@ const slidesData = [
           'The wave is the undeniable focal point, its size and position commanding immediate attention.',
       },
     ],
-    meaning: {
-      label: 'Meaning',
-      text: "This iconic woodblock print captures the overwhelming power of nature against human fragility. The interplay of line (the wave's dynamic contour), form (its three-dimensional menace), balance (asymmetrical tension), and emphasis (the wave as dominant force) creates a meditation on humanity's relationship with nature — awe, respect, and vulnerability. Mount Fuji, distant and still, represents permanence against the wave's transient fury.",
-    },
   },
 
   // SLIDE 24 - ANALYSIS: Third of May 1808
@@ -589,10 +521,6 @@ const slidesData = [
           'The diverse reactions of the victims — defiance, prayer, collapse — create a panorama of human responses to mortality.',
       },
     ],
-    meaning: {
-      label: 'Meaning',
-      text: "Goya's The Third of May 1808 depicts the execution of Spanish civilians by Napoleon's soldiers. The interplay of value (the central figure illuminated like a secular crucifixion), contrast (the faceless, mechanical firing squad vs. the expressive, individualized victims), and variety (each victim responds differently to death) creates one of the most powerful anti-war images ever made. Goya doesn't glorify battle or heroism — he shows the ugly reality of state violence against ordinary people. The lantern on the ground, the only light source, illuminates horror rather than truth.",
-    },
   },
 
   // SLIDE 25 - RECAP: Interrelatedness
@@ -640,10 +568,6 @@ const slidesData = [
         contentTitle: 'Art Forms Combined',
         content:
           '**Traditional Oil Painting:** Brushwork techniques, color mixing, compositional principles from centuries of painting tradition, understanding of light and shadow.\n\n**Digital Art:** Digital tablets, layering software, undo/redo capabilities, digital brushes that mimic or transcend physical media, infinite color precision.',
-        meaning: {
-          label: 'Meaning',
-          text: "Digital painting represents the evolution of artistic practice — artists carry the knowledge and techniques of traditional painting into a new medium. The result maintains the aesthetic warmth of oil painting while gaining the flexibility of digital tools. This hybrid form democratizes art-making (no need for expensive materials) while preserving the visual language of centuries of painting tradition. It raises questions about authenticity, craftsmanship, and what it means to be an artist in the digital age. Artists today can emulate the atmospheric effects of Caspar David Friedrich or the luminous color of Turner using only a tablet and software — carrying the Romantic tradition into the digital era.",
-        },
       },
     ],
   },
@@ -664,10 +588,6 @@ const slidesData = [
         contentTitle: 'Art Forms Combined',
         content:
           '**Sculpture:** Three-dimensional physical form — stone, metal, or architectural structure — providing a tangible, permanent presence in space.\n\n**Projection Mapping:** Digital video and light projected onto the physical form, transforming the static object with animation, color, and motion.',
-        meaning: {
-          label: 'Meaning',
-          text: 'Projection mapping transforms permanent, static objects into dynamic, ever-changing experiences. The sculpture provides physical presence and cultural weight, while the projection brings it to life with narrative, color, and movement. This hybrid form questions the boundary between permanent and ephemeral art — the sculpture endures, but each projection is a unique, unrepeatable moment. It represents the marriage of ancient art forms with cutting-edge technology.',
-        },
       },
     ],
   },
@@ -689,10 +609,6 @@ const slidesData = [
         contentTitle: 'Art Forms Combined',
         content:
           '**Photography:** Capturing reality through the lens — documentary truth, specific moments frozen in time.\n\n**Collage:** Cutting, arranging, and assembling multiple images to create a new composition that transcends any single photograph.\n\n**Digital Manipulation:** Software tools for blending, color grading, and compositing that enable seamless integration of disparate elements.',
-        meaning: {
-          label: 'Meaning',
-          text: "Hannah Höch was a pioneer of photomontage, cutting up photographs from magazines and newspapers to create new compositions that commented on politics, gender, and society. This hybrid form challenges the idea that a single photograph can capture truth. By combining multiple perspectives, moments, and images, the artist creates a more complete — or perhaps more honest — representation of experience. Höch's joiners showed that human perception is not a single frame but a mosaic of glances and moments. This approach acknowledges that reality is multifaceted and that art can embrace complexity rather than reducing it to a single viewpoint.",
-        },
       },
     ],
   },

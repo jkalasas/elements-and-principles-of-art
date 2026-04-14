@@ -41,10 +41,12 @@ export default function AnalysisSlide({ sectionLabel, title, artwork, elementsAt
           ))}
         </div>
       </div>
-      <motion.div className="meaning-callout" {...fadeUp(1.3)}>
-        <span className="meaning-label">{meaning.label}</span>
-        <MarkdownText text={meaning.text} />
-      </motion.div>
+      {meaning && (
+        <motion.div className="meaning-callout" {...fadeUp(1.3)}>
+          <span className="meaning-label">{meaning.label}</span>
+          <MarkdownText text={meaning.text} />
+        </motion.div>
+      )}
     </div>
   );
 }
