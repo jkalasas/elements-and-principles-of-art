@@ -4,12 +4,11 @@
   <meta charset="UTF-8">
   <title>Elements and Principles of Art</title>
   <script>
-    // SPA redirect for GitHub Pages
-    // Preserves the path and redirects to index.html
+    // SPA redirect for GitHub Pages with HashRouter
+    // Redirects to index.html which handles routing via hash
     var path = window.location.pathname;
-    var repo = window.location.pathname.split('/')[1];
-    var indexUrl = '/' + repo + '/index.html' + path;
-    window.location.replace(indexUrl);
+    var base = path.substring(0, path.lastIndexOf('/') + 1);
+    window.location.replace(base + 'index.html');
   </script>
 </head>
 <body>
