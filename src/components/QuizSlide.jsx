@@ -58,11 +58,11 @@ function MatchingTable({ items }) {
   );
 }
 
-function ShortAnswerQuestion({ question, index }) {
+function ShortAnswerQuestion({ question, index, total }) {
   return (
     <motion.div className="quiz-question" {...fadeUp(0.3 + index * 0.15)}>
       <p className="quiz-question-text">
-        <strong>{index + 1}.</strong> <MarkdownText text={question} as="span" />
+        {total > 1 && <strong>{index + 1}.</strong>} <MarkdownText text={question} as="span" />
       </p>
       <div className="quiz-short-answer-space" />
     </motion.div>
@@ -93,7 +93,7 @@ export default function QuizSlide({ sectionLabel, title, questions, question, ma
           return <TrueFalseQuestion key={i} question={q.question} index={i} />;
         }
         if (q.type === 'shortanswer') {
-          return <ShortAnswerQuestion key={i} question={q.question} index={i} />;
+          return <ShortAnswerQuestion key={i} question={q.question} index={i} total={questions.length} />;
         }
         return <MultipleChoiceQuestion key={i} question={q.question} options={q.options} index={i} />;
       })}
