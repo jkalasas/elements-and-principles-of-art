@@ -564,7 +564,7 @@ const slidesData = [
         imageAlt:
           'Digital painting combining traditional oil techniques with digital tools',
         attribution:
-          'Vincent van Gogh, Self-Portrait with a Straw Hat, 1887 — The Metropolitan Museum of Art, New York / Open Access',
+          'David Revoy, Alice in Wonderland, 2010 — Wikimedia Commons / CC BY 4.0',
         contentTitle: 'Art Forms Combined',
         content:
           '**Traditional Oil Painting:** Brushwork techniques, color mixing, compositional principles from centuries of painting tradition, understanding of light and shadow.\n\n**Digital Art:** Digital tablets, layering software, undo/redo capabilities, digital brushes that mimic or transcend physical media, infinite color precision.',
@@ -582,9 +582,9 @@ const slidesData = [
     artwork: [
       {
         imageSrc: '/images/hybrid/sculpture-projection.jpg',
-        imageAlt: 'Sculpture with projection mapping',
+        imageAlt: 'Projection mapping artwork on sculptural forms at FILE festival',
         attribution:
-          'The Parthenon, Athens — example of architectural projection mapping / Wikimedia Commons',
+          'Adam Pizurny, Faces projected at FILE Electronic Language International Festival, 2017 — São Paulo, Brazil / Wikimedia Commons / CC BY-SA 4.0',
         contentTitle: 'Art Forms Combined',
         content:
           '**Sculpture:** Three-dimensional physical form — stone, metal, or architectural structure — providing a tangible, permanent presence in space.\n\n**Projection Mapping:** Digital video and light projected onto the physical form, transforming the static object with animation, color, and motion.',
@@ -701,8 +701,8 @@ const slidesData = [
       {
         sectionName: 'Hybrid Art',
         attributions: [
-          'Vincent van Gogh, Self-Portrait with a Straw Hat, 1887 — The Met, New York / Open Access',
-          'The Parthenon, Athens — Architectural projection mapping example / Wikimedia Commons',
+          'David Revoy, Alice in Wonderland, 2010 — Wikimedia Commons / CC BY 4.0',
+          'Adam Pizurny, Faces at FILE Festival 2017 — Wikimedia Commons / CC BY-SA 4.0',
           'Hannah Höch, Cut with the Kitchen Knife Dada, 1919 — Staatliche Museen zu Berlin / Wikimedia Commons',
         ],
       },
