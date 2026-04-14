@@ -709,7 +709,116 @@ const slidesData = [
     ],
   },
 
-  // SLIDE 33 - CLOSING
+  // SLIDE 33 - MC 1
+  {
+    type: 'quiz',
+    id: 'quiz-mc-1',
+    sectionLabel: 'Review Questions',
+    title: 'Multiple Choice',
+    question: {
+      number: 1,
+      question: 'Which of the following is NOT one of the seven elements of art?',
+      options: ['Line', 'Shape', 'Rhythm', 'Texture'],
+    },
+  },
+
+  // SLIDE 34 - MC 2
+  {
+    type: 'quiz',
+    id: 'quiz-mc-2',
+    sectionLabel: 'Review Questions',
+    title: 'Multiple Choice',
+    question: {
+      number: 2,
+      question: 'Form differs from shape because form has:',
+      options: ['Color', 'Height, width, and depth', 'Texture', 'Boundaries'],
+    },
+  },
+
+  // SLIDE 35 - MC 3
+  {
+    type: 'quiz',
+    id: 'quiz-mc-3',
+    sectionLabel: 'Review Questions',
+    title: 'Multiple Choice',
+    question: {
+      number: 3,
+      question: 'Which principle of art is created through the repetition of visual elements?',
+      options: ['Balance', 'Rhythm', 'Emphasis', 'Proportion'],
+    },
+  },
+
+  // SLIDE 36 - MC 4
+  {
+    type: 'quiz',
+    id: 'quiz-mc-4',
+    sectionLabel: 'Review Questions',
+    title: 'Multiple Choice',
+    question: {
+      number: 4,
+      question: 'A gradual transition from one state to another (light to dark, large to small) is called:',
+      options: ['Harmony', 'Gradation', 'Variety', 'Rhythm'],
+    },
+  },
+
+  // SLIDE 37 - MC 5
+  {
+    type: 'quiz',
+    id: 'quiz-mc-5',
+    sectionLabel: 'Review Questions',
+    title: 'Multiple Choice',
+    question: {
+      number: 5,
+      question: 'Color is composed of three components:',
+      options: ['Line, shape, and form', 'Hue, saturation, and value', 'Light, dark, and medium', 'Warm, cool, and neutral'],
+    },
+  },
+
+  // SLIDE 38 - TRUE OR FALSE
+  {
+    type: 'quiz',
+    id: 'quiz-true-false',
+    sectionLabel: 'Review Questions',
+    title: 'True or False',
+    questions: [
+      { question: 'Elements of art are the building blocks used to create a visual composition.', type: 'truefalse' },
+      { question: 'Emphasis creates a focal point by using contrast to make certain elements stand out.', type: 'truefalse' },
+      { question: 'Actual texture is physical and tactile, while implied texture is visual.', type: 'truefalse' },
+      { question: 'Too much variety in a composition creates harmony.', type: 'truefalse' },
+      { question: 'Movement in art can be literal (depicting motion) or implied (using compositional flow).', type: 'truefalse' },
+    ],
+  },
+
+  // SLIDE 39 - MATCHING
+  {
+    type: 'quiz',
+    id: 'quiz-matching',
+    sectionLabel: 'Review Questions',
+    title: 'Matching',
+    matchItems: [
+      { term: 'Line', definition: 'The distribution of visual weight in a composition' },
+      { term: 'Value', definition: 'Marks that connect two points' },
+      { term: 'Texture', definition: 'The lightness or darkness of a color or tone' },
+      { term: 'Balance', definition: 'Creating a focal point through contrast' },
+      { term: 'Emphasis', definition: 'The surface quality of an artwork — how it feels or appears to feel' },
+    ],
+  },
+
+  // SLIDE 40 - SHORT ANSWER
+  {
+    type: 'quiz',
+    id: 'quiz-short-answer',
+    sectionLabel: 'Review Questions',
+    title: 'Short Answer',
+    questions: [
+      {
+        question: 'Explain how elements and principles of art work together in a real artwork.',
+        type: 'shortanswer',
+      },
+    ],
+  },
+
+  // SLIDE 41 - CLOSING
   {
     type: 'closing',
     id: 'closing',

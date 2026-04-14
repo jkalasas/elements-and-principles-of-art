@@ -36,9 +36,9 @@
 
 ## True or False
 
-**1.** There are seven elements of art and eight principles of art.
+**1.** Elements of art are the building blocks used to create a visual composition.
 
-**2.** Warm colors recede while cool colors advance toward the viewer.
+**2.** Emphasis creates a focal point by using contrast to make certain elements stand out.
 
 **3.** Actual texture is physical and tactile, while implied texture is visual.
 
@@ -62,4 +62,4 @@
 
 ## Short Answer
 
-**1.** Explain how elements and principles of art work together in a real artwork. Use one example from the presentation (e.g., *The Starry Night*, *The Great Wave*, or *The Third of May 1808*).
+**1.** Explain how elements and principles of art work together in a real artwork.

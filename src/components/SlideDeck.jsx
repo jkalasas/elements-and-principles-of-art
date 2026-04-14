@@ -11,6 +11,7 @@ import RecapSlide from './RecapSlide';
 import SummarySlide from './SummarySlide';
 import ClosingSlide from './ClosingSlide';
 import ReferencesSlide from './ReferencesSlide';
+import QuizSlide from './QuizSlide';
 
 // Stub component for slide types not yet registered
 const StubSlide = ({ type, title }) => (
@@ -30,6 +31,7 @@ const slideComponents = {
   summary: SummarySlide,
   closing: ClosingSlide,
   references: ReferencesSlide,
+  quiz: QuizSlide,
 };
 
 const pageTransition = {
