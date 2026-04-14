@@ -23,7 +23,7 @@ export default function AnalysisSlide({ sectionLabel, title, artwork, elementsAt
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.7, duration: 0.4 }}
         >
-          <img src={artwork.imageSrc} alt={artwork.imageAlt} loading="lazy" />
+          <img src={`${import.meta.env.BASE_URL}${artwork.imageSrc.replace(/^\//, '')}`} alt={artwork.imageAlt} loading="lazy" />
           <div className="attribution">{artwork.attribution}</div>
         </motion.div>
         <div className="analysis-content">

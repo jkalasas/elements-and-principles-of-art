@@ -12,7 +12,7 @@ export default function ArtworkBlock({ imageSrc, imageAlt, attribution, title, c
           <div className="image-placeholder">{imageAlt}</div>
         ) : (
           <img
-            src={imageSrc}
+            src={`${import.meta.env.BASE_URL}${imageSrc.replace(/^\//, '')}`}
             alt={imageAlt}
             loading="lazy"
             onError={() => setImageError(true)}
