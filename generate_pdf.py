@@ -63,6 +63,12 @@ SLIDES = [
         "type": "title",
         "title": "Elements and Principles of Art",
         "subtitle": "Understanding Visual Language Through Analysis",
+        "team": "BSCS 4A",
+        "members": [
+            "John Kyle Alas-as",
+            "Emmanuel John Nuñez",
+            "Ashley Rosco",
+        ],
     },
     {
         "type": "section_intro",
@@ -604,97 +610,6 @@ SLIDES = [
             },
         ],
     },
-    {
-        "type": "quiz_mc",
-        "section_label": "Review Questions",
-        "title": "Multiple Choice",
-        "questions": [
-            {
-                "number": 1,
-                "question": "Which of the following is NOT one of the seven elements of art?",
-                "options": ["Line", "Shape", "Rhythm", "Texture"],
-            },
-            {
-                "number": 2,
-                "question": "Form differs from shape because form has:",
-                "options": [
-                    "Color",
-                    "Height, width, and depth",
-                    "Texture",
-                    "Boundaries",
-                ],
-            },
-            {
-                "number": 3,
-                "question": "Which principle of art is created through the repetition of visual elements?",
-                "options": ["Balance", "Rhythm", "Emphasis", "Proportion"],
-            },
-            {
-                "number": 4,
-                "question": "A gradual transition from one state to another (light to dark, large to small) is called:",
-                "options": ["Harmony", "Gradation", "Variety", "Rhythm"],
-            },
-            {
-                "number": 5,
-                "question": "Color is composed of three components:",
-                "options": [
-                    "Line, shape, and form",
-                    "Hue, saturation, and value",
-                    "Light, dark, and medium",
-                    "Warm, cool, and neutral",
-                ],
-            },
-        ],
-    },
-    {
-        "type": "quiz_true_false",
-        "section_label": "Review Questions",
-        "title": "True or False",
-        "questions": [
-            "Elements of art are the building blocks used to create a visual composition.",
-            "Emphasis creates a focal point by using contrast to make certain elements stand out.",
-            "Actual texture is physical and tactile, while implied texture is visual.",
-            "Too much variety in a composition creates harmony.",
-            "Movement in art can be literal (depicting motion) or implied (using compositional flow).",
-        ],
-    },
-    {
-        "type": "quiz_matching",
-        "section_label": "Review Questions",
-        "title": "Matching",
-        "match_items": [
-            {
-                "term": "Line",
-                "definition": "The distribution of visual weight in a composition",
-            },
-            {"term": "Value", "definition": "Marks that connect two points"},
-            {
-                "term": "Texture",
-                "definition": "The lightness or darkness of a color or tone",
-            },
-            {
-                "term": "Balance",
-                "definition": "Creating a focal point through contrast",
-            },
-            {
-                "term": "Emphasis",
-                "definition": "The surface quality of an artwork — how it feels or appears to feel",
-            },
-        ],
-    },
-    {
-        "type": "quiz_short_answer",
-        "section_label": "Review Questions",
-        "title": "Short Answer",
-        "questions": [
-            "Explain how elements and principles of art work together in a real artwork.",
-        ],
-    },
-    {
-        "type": "closing",
-        "section_label": "Elements and Principles of Art",
-        "title": "Questions?",
-    },
 ]
 
 # ── CSS ─────────────────────────────────────────────────────────────────────
@@ -845,6 +760,28 @@ p {
     color: #7f8c8d;
     font-style: italic;
     margin-bottom: 8mm;
+}
+
+.title-team {
+    font-size: 12pt;
+    font-weight: 600;
+    color: #3498db;
+    margin-top: 8mm;
+    margin-bottom: 4mm;
+    letter-spacing: 2px;
+}
+
+.title-members {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.title-members li {
+    font-size: 11pt;
+    color: #34495e;
+    padding: 1.5mm 0;
 }
 
 .section-intro-slide .slide-content-center {
@@ -1307,6 +1244,15 @@ p {
 
 
 def generate_title_slide(slide):
+    members_html = ""
+    if "members" in slide:
+        members_list = "".join(f"<li>{m}</li>" for m in slide["members"])
+        members_html = f"""
+            <ul class="title-members">{members_list}</ul>
+        """
+    team_html = ""
+    if "team" in slide:
+        team_html = f'<p class="title-team">{slide["team"]}</p>'
     return f"""
     <div class="slide title-slide">
         <div class="slide-content-center">
@@ -1314,6 +1260,8 @@ def generate_title_slide(slide):
             <h1 class="title-main">{slide["title"]}</h1>
             <p class="title-sub">{slide["subtitle"]}</p>
             <div class="decorative-line"></div>
+            {team_html}
+            {members_html}
         </div>
     </div>
     """
